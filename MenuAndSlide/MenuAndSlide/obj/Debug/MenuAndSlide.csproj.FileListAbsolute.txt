@@ -1,0 +1,6 @@
+E:\NetProj\2016\MenuAndSlide\MenuAndSlide\bin\MenuAndSlide.dll
+E:\NetProj\2016\MenuAndSlide\MenuAndSlide\bin\MenuAndSlide.pdb
+E:\NetProj\2016\MenuAndSlide\MenuAndSlide\bin\mysql.data.dll
+E:\NetProj\2016\MenuAndSlide\MenuAndSlide\obj\Debug\ResolveAssemblyReference.cache
+E:\NetProj\2016\MenuAndSlide\MenuAndSlide\obj\Debug\MenuAndSlide.dll
+E:\NetProj\2016\MenuAndSlide\MenuAndSlide\obj\Debug\MenuAndSlide.pdb
