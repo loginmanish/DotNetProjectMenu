@@ -24,5 +24,7 @@
     <div id="detailsView" class="details-display" runat="server">
         
     </div>
+    <div id="message" runat="server">
+    </div>
 </body>
 </html>
